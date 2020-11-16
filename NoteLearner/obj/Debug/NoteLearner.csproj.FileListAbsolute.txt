@@ -1,0 +1,7 @@
+C:\Users\507\Documents\Code\Unfinished\NoteLearner\bin\Debug\NoteLearner.exe.config
+C:\Users\507\Documents\Code\Unfinished\NoteLearner\bin\Debug\NoteLearner.exe
+C:\Users\507\Documents\Code\Unfinished\NoteLearner\bin\Debug\NoteLearner.pdb
+C:\Users\507\Documents\Code\Unfinished\NoteLearner\obj\Debug\NoteLearner.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Unfinished\NoteLearner\obj\Debug\NoteLearner.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Unfinished\NoteLearner\obj\Debug\NoteLearner.exe
+C:\Users\507\Documents\Code\Unfinished\NoteLearner\obj\Debug\NoteLearner.pdb
